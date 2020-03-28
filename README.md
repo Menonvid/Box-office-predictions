@@ -1,4 +1,4 @@
-# Movie Project
+# Movie Project Analysis
 
 Microsoft is planning to venture into Movie Business.But since this is going to be the very first for them, they need insight into this Busine. The aim of this Project is to help them understand the Movie Business and the kind of movies that are being made. 
 
