@@ -16,24 +16,24 @@ Q5- What has been the trend of Movie runtime by Genre?
 
 The Project outlines the data analysis performed for conclusions and recommendations. The data analysis performed in the Project  observes the yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest.
 
-Changing data type of monetary values to compute for total profit
+Cleaning the data sets given.
 
-Joining 'imdb.title.basics.csv' dataset with 'tn.movie_budgets.csv' dataset
+Merging the tn.movie_budgets.csv,title.basics.csv,title.ratings.csv and tmdb.movies.csv datasets.
 
-Changing data type of 'Release Date' to reflect datetime
+Changing data type of 'Release Date' to reflect datetime and extracting year and months from it.
 
-Creating new df to start analysis on seasonality
+Use the merged datasets to start our analysis.
 
-Grouping for last 10 years
+Grouping the movies for last 10 years.
 
-Chart each seasonal gross profit trend for past decade
+Analyse the trend for Profit versus Release Year
 
-Gross profit by Winter, Spring, Summer, and Fall for past decade
+Check the Correlation Between Production Budget and Profit
 
-Starting 1 year genre analysis between 2017 and 2018
+Gross Profit by Winter, Spring, Summer, and Fall for past decade
 
-Monthly Gross Profit trend between 2017 and 2018
+Gross Profit by different Genres
 
 Monthly gross profit trend as a mean for past 10 years for comparison
 
-Genre/Theme analysis
+Genre/Runtime analysis
