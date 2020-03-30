@@ -1,5 +1,5 @@
 <p align="center"><img width="200" height="100" src="data/download.jpg"></p>
-<h1 align="center">Analysis For</h1>
+<h1 align="center">Box Office Analysis For Microsoft</h1>
 <p align="center"><img width="200" height="150" src="data/download.png"></p>
 
 Microsoft is planning to venture into Movie Business. But since this is going to be the very first for them, they need insight into this Business. The aim of this Project is to help them understand the Movie Business and the kind of movies that are being made. 
@@ -42,7 +42,9 @@ Monthly gross profit trend as a mean for past 10 years for comparison
 
 Genre/Runtime analysis
 
-Findings :
+
+
+<h1>Findings</h1>
 
 ![](data/ProfitnRelease.png)
 
@@ -50,9 +52,10 @@ Findings :
 
 ![](data/Monthwise.png)
 
-![](data/Runtime.PNG)
+![](data/Runtime.png)
 
-Recommendations:
+
+<h1>Recommendations</h1>
 Make an Action, Adventure, Sci-Fi or Animation movie.
 The best season for the movies to release are during Summer time.
 The movie runtime should be around 2.5 hours and 1.5 hours if Animation.
