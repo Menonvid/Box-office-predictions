@@ -1,6 +1,6 @@
-![](data/download.jpg)
-# Analysis For
-![](data/download.png)
+<p align="center"><img width="200" height="100" src="data/download.jpg"></p>
+<h1 align="center">Analysis For</h1>
+<p align="center"><img width="200" height="150" src="data/download.png"></p>
 
 Microsoft is planning to venture into Movie Business. But since this is going to be the very first for them, they need insight into this Business. The aim of this Project is to help them understand the Movie Business and the kind of movies that are being made. 
 
