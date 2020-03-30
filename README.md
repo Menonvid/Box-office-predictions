@@ -50,4 +50,12 @@ Findings :
 
 ![](data/Monthwise.png)
 
+![](data/Runtime.PNG)
+
+Recommendations:
+Make an Action, Adventure, Sci-Fi or Animation movie.
+The best season for the movies to release are during Summer time.
+The movie runtime should be around 2.5 hours and 1.5 hours if Animation.
+
+
 
