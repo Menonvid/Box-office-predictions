@@ -52,7 +52,7 @@ Genre/Runtime analysis
 
 ![](data/Monthwise.png)
 
-![](data/Runtime.png)
+![](data/Runtime.PNG)
 
 
 <h1>Recommendations</h1>
