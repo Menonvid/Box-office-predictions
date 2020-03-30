@@ -1,5 +1,5 @@
-# Movie Project Analysis
-
+![](data/download.jpg)
+# Analysis For
 ![](data/download.png)
 
 Microsoft is planning to venture into Movie Business. But since this is going to be the very first for them, they need insight into this Business. The aim of this Project is to help them understand the Movie Business and the kind of movies that are being made. 
@@ -16,6 +16,7 @@ Q4- What is the best season for each Genre?
 
 Q5- What has been the trend of Movie runtime by Genre?
 
+---
 
 The Project outlines the data analysis performed for conclusions and recommendations. The data analysis performed in the Project  observes the yearly and monthly trends to guage popular release times and genres and uses gross profit as an indicator for consumer interest.
 
