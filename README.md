@@ -41,3 +41,13 @@ Gross Profit by different Genres
 Monthly gross profit trend as a mean for past 10 years for comparison
 
 Genre/Runtime analysis
+
+Findings :
+
+![](data/ProfitnRelease.png)
+
+![](data/GenreProfit.png)
+
+![](data/Monthwise.png)
+
+
