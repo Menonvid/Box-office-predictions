@@ -56,9 +56,10 @@ Genre/Runtime analysis
 
 
 <h1>Recommendations</h1>
-Make an Action, Adventure, Sci-Fi or Animation movie.
-The best season for the movies to release are during Summer time.
-The movie runtime should be around 2.5 hours and 1.5 hours if Animation.
+The Production budget should be around 150 - 200 million USD.
+Make an Action, Adventure, Sci-Fi or Animation movie which are our best genres.
+The best season for the movies to release are during Summer or Spring.
+The film should be around 2-3 hours and 1-2 hours if Animation.
 
 
 
